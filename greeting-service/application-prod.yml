@@ -2,8 +2,8 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "cia"
-  default-value: "Modo"
+  greeting: "prod"
+  default-value: "prod"
   
 # Spring Boot Actuator  
 management:

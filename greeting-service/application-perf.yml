@@ -2,8 +2,8 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "Hola"
-  default-value: "Mundo"
+  greeting: "perf"
+  default-value: "perf"
   
 # Spring Boot Actuator  
 management:
