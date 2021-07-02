@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: greeting-service
+greeting-service:
+  greeting: "cia"
+  default-value: "Modo"
+  
+# Spring Boot Actuator  
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - "*"
