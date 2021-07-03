@@ -2,8 +2,8 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "dev"
-  default-value: "dev"
+  greeting: "dev pronto"
+  default-value: "dev pronto"
   
 # Spring Boot Actuator  
 management:
